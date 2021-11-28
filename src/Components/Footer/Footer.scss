@@ -1,0 +1,15 @@
+@import '../../master.scss';
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: $primary;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    p{
+        margin: 0;
+    }
+}

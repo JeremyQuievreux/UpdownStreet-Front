@@ -1,0 +1,26 @@
+.adminpage-boutons-admin {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.admin-page-container {
+    display: flex; 
+    justify-content: space-around;
+    
+}
+
+.adminpage-button-validate {
+    color: white;
+    height: fit-content;
+    width: 110%;
+    padding: 0.5rem;
+    border: 0.2px solid #1b3563;;
+    border-radius: 3px;
+    background-color: #1b3563;
+    margin-bottom: 1px;
+    }
+
+.adminpage-components {
+        width: 100%;
+    }

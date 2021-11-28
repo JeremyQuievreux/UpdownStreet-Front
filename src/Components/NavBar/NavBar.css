@@ -1,0 +1,9 @@
+.logo-image {
+    height: 3.5rem;
+    
+}
+
+.navbar {
+    margin-bottom: 1rem;
+    border-bottom: 5px solid darkred;
+}
